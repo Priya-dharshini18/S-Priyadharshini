@@ -65,27 +65,22 @@ me = Priyadharshini()
 
 <!-- 5 & 6. GITHUB STATS + TOP LANGUAGES -->
 <div align="center">
-  <a href="https://github.com/S-Priyadharshini">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=S-Priyadharshini&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
+  <a href="https://github.com/Priya-dharshini18">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Priya-dharshini18&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
   </a>
-  <a href="https://github.com/S-Priyadharshini">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Priyadharshini&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
+  <a href="https://github.com/Priya-dharshini18">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priya-dharshini18&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
   </a>
 </div>
 
 <!-- 7. STREAK STATS -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=S-Priyadharshini&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
-</div>
-
-<!-- 8. ACTIVITY GRAPH -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=S-Priyadharshini&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Priya-dharshini18&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
 </div>
 
 <!-- 9. TROPHY WALL -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=S-Priyadharshini&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Priya-dharshini18&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
 </div>
 
 <!-- 10. HANDS-ON CLOUD ENGINEERING PRACTICE -->
