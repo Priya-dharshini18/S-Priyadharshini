@@ -21,8 +21,7 @@ class Priyadharshini:
         self.location = "Puducherry, India"
         self.degree = "B.Tech - Information Technology (2026)"
         self.stack = ["Python", "SQL", "Terraform", "GCP", "AWS"]
-        self.currently_learning = ["Kubernetes", "Advanced GCP Networking"]
-        self.fun_fact = "I once deployed a full load balancer stack twice — once by hand, once with Terraform!"
+        self.currently_learning = ["Terraform", "Advanced GCP Networking"]
 
     def motto(self):
         return "Learn it, build it, deploy it, destroy it (for cost control 😄)"
@@ -39,11 +38,7 @@ me = Priyadharshini()
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
-
-**Frameworks**
-<p>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
 </p>
 
 **Cloud & DevOps**
@@ -119,21 +114,6 @@ me = Priyadharshini()
 | **[GCP Cloud Infrastructure with Terraform](https://github.com/S-Priyadharshini)** | GCP, Terraform, gcloud CLI | Provisioned VM, Storage, Cloud SQL, Firestore & Global Load Balancer end-to-end; version-controlled and cost-managed with `terraform destroy` |
 | **[Cloud Run Flask Deployment](https://github.com/S-Priyadharshini)** | GCP Cloud Run, Flask, IAM | Debugged Cloud Build IAM permission errors and deployed a live Flask app on Cloud Run |
 | **[Autism Detection and Recommendation System](https://github.com/S-Priyadharshini)** | Python, Computer Vision, ML | AI-powered system using full-body pose estimation and behavioral analytics to detect ASD traits, with a personalized therapy recommendation module |
-
-</div>
-
-<!-- 12. ACHIEVEMENTS -->
-### 🏆 Achievements & Certifications
-
-<div align="center">
-
-| | Achievement | Details |
-|---|---|---|
-| ☁️ | AWS Academy Cloud Foundations | Certified — Amazon Web Services |
-| 🤖 | AWS Academy Generative AI Foundations | Certified — Amazon Web Services |
-| 🐍 | Joy of Python in Computing | NPTEL (IIT Certification) |
-| 💡 | Smart India Hackathon | Participant |
-| 🌐 | Web Contest | Participant |
 
 </div>
 
